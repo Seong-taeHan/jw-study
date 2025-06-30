@@ -1,4 +1,4 @@
-package com.study.javabasic.jwstudy.Class.Class.Class;
+package com.study.javabasic.jwstudy.Class;
 
 public class Study2 {
     public static void main(String[] args) {
